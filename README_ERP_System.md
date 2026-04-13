@@ -187,5 +187,5 @@ Unlike basic CRUD apps, this system includes:
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username
+Divyansh jeena 
+GitHub: https://github.com/divyansh-jeena
